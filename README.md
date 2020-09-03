@@ -1,5 +1,5 @@
 # Screenshot-Thief
-#### Every 5 seconds the program takes a screenshot and in a separate stream sends it to you on the DropBox using your access token.
+#### Every 5 seconds the app takes a screenshot and in a separate thread sends it to you on the DropBox using your access token.
 Screenshots are saved in "yyyyMMdd_HHmmss.png" format.
 
 
